@@ -1,0 +1,7 @@
+{ 
+    "rally-url": "<add your rally url here>",
+    "api-key": "<add your rally api key here>",
+    "workspace": "<add your workspace here>",
+    "signature_required": false,
+    "secret_token": "add your secret GitHub token"
+}
