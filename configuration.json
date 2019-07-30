@@ -1,7 +1,6 @@
 { 
-    "rally-url": "<add your rally url here>",
-    "api-key": "<add your rally api key here>",
-    "workspace": "<add your workspace here>",
-    "signature_required": false,
-    "secret_token": "add your secret GitHub token"
+    "rally-url": "https://rally1.rallydev.com/",
+    "api-key": "_yllSwzCITOqIOsHwINAbZyUp8lXE0xvkdmQL9VX8jo",
+    "workspace": "DevOps & Agile",
+    "signature_required": false
 }
